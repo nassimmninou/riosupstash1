@@ -8,6 +8,7 @@ tiktoken==0.4.0
 pycryptodome
 upstash_vector
 openai
+langchain_community
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1
 
